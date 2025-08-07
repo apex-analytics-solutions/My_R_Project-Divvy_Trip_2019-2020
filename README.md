@@ -1,7 +1,6 @@
 ---
-title: "Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior"
+Title: "Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior"
 author: "Data Analyst"
-date: "`r Sys.Date()`"
 ---
 
 # **Project Overview**
