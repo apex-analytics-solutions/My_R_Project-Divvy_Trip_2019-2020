@@ -1,6 +1,6 @@
 ---
 Title: "Divvy-trip-2019 & 2020: A Comparative Analysis of Rider Behavior"
-author: "Data Analyst"
+author: "Anees Ur Rehman Data Analyst"
 Website Link: "https://apex-analytics-solutions.github.io/My_R_Project-Divvy_Trip_2019-2020/"
 ---
 
